@@ -31,6 +31,7 @@ Figma
 
 ## OUTPUT:
 
+![img](design.jpg)
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
